@@ -59,8 +59,8 @@ Next steps:
 ## 👩‍🚀 Team
 | Name | Role | GitHub |
 |------|------|---------|
-| Delfina 🛰️ | Game Design / Programming | [@equisdel](https://github.com/tuusuario) |
-| Lucia 🪐 | Game Design / Programming	 |  |
+| Delfina 🛰️ | Game Design / Programming | [@equisdel](https://github.com/equisdel) |
+| Lucia 🪐 | Game Design / Programming	 | [@LuciaDelgado03](https://github.com/LuciaDelgado03) |
 
 ---
 
